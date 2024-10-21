@@ -4,11 +4,12 @@
 
 ### Programming languages
 
-[![Languages](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Software
 
-[![Software](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <!--
