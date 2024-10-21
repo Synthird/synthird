@@ -1,4 +1,4 @@
-## Hi! I'm Synthird!👋
+## Hey there! I'm Synthird!👋
 
 ## Skills
 
