@@ -1,4 +1,6 @@
-## Hey there! I'm Synthird!👋
+## Hey there! I'm Synthird! 👋
+
+- ⚡ Fun fact: You are reading this in the present moment! 🕘
 
 ## Skills
 
@@ -6,7 +8,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Software
+### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
