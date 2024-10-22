@@ -10,8 +10,8 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/version%20control:%20git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/code%20editor:%20Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
 
 <!--
