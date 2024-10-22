@@ -1,6 +1,6 @@
 ## Hey there! I'm Synthird! 👋
 
-- ⚡ Fun fact: You are reading this in the present moment! 🕘
+- ⚡ Fun fact: You are reading this in the present! 🕘
 
 ## Skills
 
