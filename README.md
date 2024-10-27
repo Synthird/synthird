@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: You are reading this in the present!
 
-## <> Programming languages
+## </> Programming languages
 
 [![GDSsript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
