@@ -1,6 +1,10 @@
 ## Hey there! I'm Synthird! 👋
 
 - ⚡ Fun fact: You are reading this in the present!
+- 🎮 Favorite video games:
+  - 🎵 Just Dance
+  - 🎃 HorrorVale
+  - 🐰 The Bunny Graveyard
 
 ## </> Programming languages
 
