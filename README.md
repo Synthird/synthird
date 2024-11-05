@@ -16,6 +16,15 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 
+## 🌐 Social media and other links
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synthird/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@Synthird)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Synthird)
+[![Youtube](https://img.shields.io/badge/YouTube%20channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+
+[![Itch.io](https://img.shields.io/badge/Itch.io%20games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://synthird.itch.io/)
+
 
 <!--
 **Synthird/Synthird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
