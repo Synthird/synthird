@@ -1,6 +1,6 @@
 ## Hey there! I'm Synthird! 👋
 
-- 🎮 Favorite video games:
+- 🎮 Favorite video games
   - 🎵 Just Dance
   - 🐰 The Bunny Graveyard
   - 🎃 HorrorVale
