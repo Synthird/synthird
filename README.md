@@ -1,4 +1,4 @@
-## Hey there! I'm Synthird! 👋
+# Hey there! I'm Synthird! 👋
 
 - ⚡ Fun fact: You are reading this in the present!
 - 🎮 Favorite video games:
@@ -6,17 +6,17 @@
   - 🐰 The Bunny Graveyard
   - 🎃 HorrorVale
 
-## </> Programming languages
+# </> Programming languages
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](#)
 
-## 🔧 Tools
+# 🔧 Tools
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 
-## 🌐 Social media and other links
+# 🌐 Social media and other links
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synthird/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@Synthird)
