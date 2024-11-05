@@ -5,8 +5,7 @@
   - 🐰 The Bunny Graveyard
   - 🎃 HorrorVale
 - 🕹️ I started to enjoy coding when I was learning to make video games
-
-⚡ Fun fact: You are reading this in the present!
+- ⚡ Fun fact: You are reading this in the present!
 
 ## </> Programming languages
 
