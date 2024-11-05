@@ -4,7 +4,7 @@
   - 🎵 Just Dance
   - 🐰 The Bunny Graveyard
   - 🎃 HorrorVale
-- 🕹️ I got into coding when I was learning to make video games
+- 🕹️ I got into coding when I was learning to make video games for the first time
 - ⚡ Fun fact: You are reading this in the present!
 
 ## </> Programming languages
