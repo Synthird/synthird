@@ -1,4 +1,4 @@
-## Hey there! I'm Synthird! 👋
+## Hi there! I'm Synthird! 👋
 
 - 🎮 Favorite video games
   - 🎵 Just Dance
