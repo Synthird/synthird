@@ -9,8 +9,6 @@
 
 ## </> Programming languages
 
-[![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS3&logoColor=white&color=%231572B6)](#)
-[![HTML](https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)](#)
 
