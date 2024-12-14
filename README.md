@@ -15,7 +15,7 @@
 ## 🔧 Tools
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Nano](https://img.shields.io/badge/nano-nano?style=for-the-badge&logo=nano&color=%23171717)](#)
+[![Nano text editor](https://img.shields.io/badge/nano%20text%20editor-nano?style=for-the-badge&color=%23171717)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 
 ## 🌐 Social media and links to other projects
