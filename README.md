@@ -22,7 +22,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synthird/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@Synthird)
-[![TikTok](https://img.shields.io/badge/TikTok-TikTok?style=for-the-badge&logo=TikTok&color=rgb(18%2C%2018%2C%2018))](https://www.tiktok.com/@synthird)
+[![TikTok](https://img.shields.io/badge/tiktok-tikok?style=for-the-badge&logo=tiktok&color=%23171717)](https://www.tiktok.com/@synthird)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-Twitter/X?style=for-the-badge&logo=X&color=black)](https://x.com/Synthird)
 [![Youtube channel](https://img.shields.io/badge/YouTube%20channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Synthird)
 
