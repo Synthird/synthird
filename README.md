@@ -20,6 +20,7 @@
 
 ## 🌐 Social media and links to other projects
 
+[![Bluesky](https://img.shields.io/badge/Bluesky-bluesky?style=for-the-badge&logo=bluesky&logoColor=white&color=%230285FF)](https://bsky.app/profile/synthird.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synthird/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@Synthird)
 [![TikTok](https://img.shields.io/badge/tiktok-tikok?style=for-the-badge&logo=tiktok&color=%23171717)](https://www.tiktok.com/@synthird)
