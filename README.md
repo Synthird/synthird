@@ -27,7 +27,7 @@
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Twitter%2FX?style=for-the-badge&logo=X&color=%23171717)](https://x.com/Synthird)
 [![Youtube channel](https://img.shields.io/badge/YouTube%20channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Synthird)
 
-[![Itch.io](https://img.shields.io/badge/Itch.io%20games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://synthird.itch.io/)
+[![Itch.io games](https://img.shields.io/badge/Itch.io%20games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://synthird.itch.io/)
 
 
 <!--
