@@ -4,7 +4,7 @@
   - 🎵 Just Dance
   - 🐰 The Bunny Graveyard
   - 🎃 HorrorVale
-- 🕹️ I got into coding through learning to make video games
+- 🕹️ I got into programming through learning to make video games
 - 🕛 I have been programming since mid-March 2020
 - ⚡ Fun fact: You are reading this in the present!
 
