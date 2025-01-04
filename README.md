@@ -5,6 +5,7 @@
   - 🐰 The Bunny Graveyard
   - 🎃 HorrorVale
 - 🕹️ I got into programming through learning to make video games
+  - 🎮 You can play the ones I finished on [Itch.io](https://synthird.itch.io)
 - 🕛 I have been programming since mid-March 2020
 - ⚡ Fun fact: You are reading this in the present!
 
