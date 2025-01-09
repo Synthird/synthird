@@ -9,7 +9,7 @@
 - 🕛 I have been programming since mid-March 2020
 - ⚡ Fun fact: You are reading this in the present!
 
-## </> Programming languages
+## </> Languages
 
 [![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS&logoColor=white&color=%23663399)](#)
 [![GDSsript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](#)
