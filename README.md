@@ -15,6 +15,7 @@
 [![GDSsript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E)](#)
 [![Python](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)](#)
 
 ## 🔧 Tools
