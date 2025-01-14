@@ -28,15 +28,6 @@
 [![Nano text editor](https://img.shields.io/badge/Nano%20text%20editor-nano?style=for-the-badge&color=%23cc88ff)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
-## 🌐 Social media
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-bluesky?style=for-the-badge&logo=bluesky&logoColor=white&color=%230285FF)](https://bsky.app/profile/synthird.bsky.social)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synthird/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@Synthird)
-[![TikTok](https://img.shields.io/badge/tiktok-tikok?style=for-the-badge&logo=tiktok&color=%23171717)](https://www.tiktok.com/@synthird)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Twitter%2FX?style=for-the-badge&logo=X&color=%23171717)](https://x.com/Synthird)
-[![Youtube channel](https://img.shields.io/badge/YouTube%20channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Synthird)
-
 <!--
 **Synthird/Synthird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
