@@ -9,14 +9,17 @@
 - 🕛 I have been programming since mid-March 2020
 - ⚡ Fun fact: You are reading this in the present!
 
-## </> Languages
+## </> Programming languages
 
-[![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS&logoColor=white&color=%23663399)](#)
 [![GDSsript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E)](#)
 [![Python](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)](#)
+
+## 📝 Markup and style sheet languages
+[![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS&logoColor=white&color=%23663399)](#)
+[![HTML](https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-markdown?style=for-the-badge&logo=markdown&color=blue)](#)
 
 ## 🔧 Tools
 
