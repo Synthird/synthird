@@ -1,9 +1,5 @@
 ## Hi there! I'm Synthird! 👋
 
-- 🎮 Favorite video games
-  - 🎵 Just Dance
-  - 🐰 The Bunny Graveyard
-  - 🎃 HorrorVale
 - 🕹️ I got into programming through learning to make video games
   - 🎮 You can play the ones I finished on [itch.io](https://synthird.itch.io)
 - 🕛 I have been programming since mid-March 2020
