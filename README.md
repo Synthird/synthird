@@ -1,6 +1,6 @@
 ## Hi there! I'm Synthird! 👋
 
-- 🕹️ I got into programming through learning to make video games
+- 🕹️ I got into programming when I started learning to make video games
   - 🎮 You can play the ones I finished on [itch.io](https://synthird.itch.io)
 - 🕛 I have been programming since mid-March 2020
 - ⚡ Fun fact: You are reading this in the present!
