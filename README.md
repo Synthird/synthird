@@ -14,7 +14,7 @@
 
 ## 📝 Markup and style sheet languages
 [![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS&logoColor=white&color=%23663399)](#)
-[![HTML](https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-markdown?style=for-the-badge&logo=markdown&color=blue)](#)
 
 ## 🔧 Tools
