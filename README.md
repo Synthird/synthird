@@ -7,7 +7,6 @@
 
 ## </> Programming languages
 
-[![GDSsript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E)](#)
 [![Python](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)](#)
@@ -20,7 +19,6 @@
 ## 🔧 Tools
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](#)
 [![Nano text editor](https://img.shields.io/badge/Nano%20text%20editor-nano?style=for-the-badge&color=%23cc88ff)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
