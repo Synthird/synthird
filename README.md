@@ -1,5 +1,7 @@
 ## Hi there! I'm Synthird! 👋
 
+![GitHub User's stars](https://img.shields.io/github/stars/synthird?style=for-the-badge&label=Total%20stars%20earned)
+
 - 🕹️ I got into programming when I started learning to make video games
   - 🎮 You can play the ones I finished on [itch.io](https://synthird.itch.io)
 - 🕛 I have been programming since mid-March 2020
