@@ -20,7 +20,6 @@
 ## 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-GitHub?style=for-the-badge&logo=GitHub&color=%23181717)
 ![Nano text editor](https://img.shields.io/badge/Nano%20text%20editor-nano?style=for-the-badge&color=%23cc88ff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
