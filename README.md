@@ -23,12 +23,6 @@
 ![Nano text editor](https://img.shields.io/badge/Nano%20text%20editor-nano?style=for-the-badge&color=%23cc88ff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🌱 Non-programming arsenal
-
-![Blender](https://img.shields.io/badge/Blender-Blender?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
-![Gimp](https://img.shields.io/badge/Gimp-Gimp?style=for-the-badge&logo=gimp&color=%235C5543)
-![Krita](https://img.shields.io/badge/Krita-krita?style=for-the-badge&logo=krita&logoColor=white&color=%233BABFF)
-
 <!--
 **Synthird/Synthird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
