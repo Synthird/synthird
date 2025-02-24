@@ -24,7 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <!--
-## 🌱 Non-programming skills
+## 🌱 Non-programming tools
 
 ![Blender](https://img.shields.io/badge/Blender-Blender?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
 ![Gimp](https://img.shields.io/badge/Gimp-Gimp?style=for-the-badge&logo=gimp&color=%235C5543)
