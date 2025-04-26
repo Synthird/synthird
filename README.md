@@ -13,23 +13,23 @@
 ![Python](images/programming-languages/python.svg)
 
 ## 📝 Markup and style sheet languages
-![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS&logoColor=white&color=%23663399)
-![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26)
-![Markdown](https://img.shields.io/badge/Markdown-markdown?style=for-the-badge&logo=markdown&color=blue)
+![CSS](images/markup-and-style-sheet-languages/css.svg)
+![HTML5](images/markup-and-style-sheet-languages/html5.svg)
+![Markdown](images/markup-and-style-sheet-languages/markdown.svg)
 
 ## 🔧 Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nano text editor](https://img.shields.io/badge/Nano%20text%20editor-nano?style=for-the-badge&color=%23cc88ff)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](images/tools/git.svg)
+![Nano text editor](images/tools/nano-text-editor.svg)
+![Visual Studio Code](images/tools/visual-studio-code.svg)
 
 <details>
 <summary>🖌️ Non-programming tools</summary> <br>
 
-![Blender](https://img.shields.io/badge/Blender-Blender?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
-![Gimp](https://img.shields.io/badge/Gimp-Gimp?style=for-the-badge&logo=gimp&color=%235C5543)
-![Krita](https://img.shields.io/badge/Krita-krita?style=for-the-badge&logo=krita&logoColor=white&color=%233BABFF)
-![Libresprite](https://img.shields.io/badge/Libresprite-libresprite?style=for-the-badge&color=white)
+![Blender](images/tools/non-programming-tools/blender.svg)
+![Gimp](images/tools/non-programming-tools/gimp.svg)
+![Krita](images/tools/non-programming-tools/krita.svg)
+![Libresprite](images/tools/non-programming-tools/libresprite.svg)
 
 </details>
 
