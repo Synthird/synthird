@@ -7,10 +7,10 @@
 
 ## </> Programming languages
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-lua?style=for-the-badge&logo=lua&logoColor=white&color=%232C2D72)
-![Python](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
+![Java](images/programming-languages/java.svg)
+![Javascript](images/programming-languages/javascript.svg)
+![Lua](images/programming-languages/lua.svg)
+![Python](images/programming-languages/python.svg)
 
 ## 📝 Markup and style sheet languages
 ![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=CSS&logoColor=white&color=%23663399)
