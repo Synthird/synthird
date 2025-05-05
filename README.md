@@ -7,6 +7,7 @@
 
 ## </> Programming languages
 
+![C](images/programming-languages/C.svg)
 ![Java](images/programming-languages/java.svg)
 ![Javascript](images/programming-languages/javascript.svg)
 ![Lua](images/programming-languages/lua.svg)
