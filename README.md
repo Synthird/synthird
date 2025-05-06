@@ -5,7 +5,7 @@
 - 🕛 I have been programming since mid 2020
 - ⚡ Fun fact: You are reading this in the present!
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&hide_progress=true&langs_count=20)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&hide_progress=true&langs_count=20&theme=synthwave&hide_border=true&disable_animations=true)
 
 ## 🔧 Tools
 
