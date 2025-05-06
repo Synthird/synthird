@@ -5,18 +5,7 @@
 - 🕛 I have been programming since mid 2020
 - ⚡ Fun fact: You are reading this in the present!
 
-## </> Programming languages
-
-![C](images/programming-languages/C.svg)
-![Java](images/programming-languages/java.svg)
-![Javascript](images/programming-languages/javascript.svg)
-![Lua](images/programming-languages/lua.svg)
-![Python](images/programming-languages/python.svg)
-
-## 📝 Markup and style sheet languages
-![CSS](images/markup-and-style-sheet-languages/css.svg)
-![HTML5](images/markup-and-style-sheet-languages/html5.svg)
-![Markdown](images/markup-and-style-sheet-languages/markdown.svg)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&hide_progress=true&langs_count=20)
 
 ## 🔧 Tools
 
