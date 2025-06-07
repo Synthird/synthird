@@ -8,7 +8,7 @@
 <details>
   <summary>:octocat: Top languages in public non-forked repositories (Doesn't show skill level)</summary> <br>
 
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&theme=synthwave&langs_count=20&hide_border=true&disable_animations=true&custom_title=Top%20languages%20in%20public%20repositories)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&theme=synthwave&langs_count=20&hide_border=true&disable_animations=true&custom_title=Top%20languages)
 </details>
 
 ## 🔧 Tools
