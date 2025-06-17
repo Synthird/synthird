@@ -13,17 +13,17 @@
 
 ## 🔧 Tools
 
-![Git](images/tools/git.svg)
-![Nano text editor](images/tools/nano-text-editor.svg)
-![Visual Studio Code](images/tools/visual-studio-code.svg)
+[![Git](images/tools/git.svg)](https://git-scm.com/)
+[![Nano text editor](images/tools/nano-text-editor.svg)](https://www.nano-editor.org/)
+[![Visual Studio Code](images/tools/visual-studio-code.svg)](https://code.visualstudio.com/)
 
 <details>
 <summary>🖌️ Non-programming tools</summary> <br>
 
-![Blender](images/tools/non-programming-tools/blender.svg)
-![Gimp](images/tools/non-programming-tools/gimp.svg)
-![Krita](images/tools/non-programming-tools/krita.svg)
-![Libresprite](images/tools/non-programming-tools/libresprite.svg)
+[![Blender](images/tools/non-programming-tools/blender.svg)](https://www.blender.org/)
+[![Gimp](images/tools/non-programming-tools/gimp.svg)](https://www.gimp.org/)
+[![Krita](images/tools/non-programming-tools/krita.svg)](https://krita.org/en/)
+[![Libresprite](images/tools/non-programming-tools/libresprite.svg)](https://libresprite.github.io/)
 
 </details>
 
