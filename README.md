@@ -1,8 +1,8 @@
 ## Hi there! I'm Synthird! 👋
 
+- 🕛 I have been programming since mid 2020
 - 🕹️ I got into programming when I started learning to make video games
   - 🎮 You can play the ones I finished on [itch.io](https://synthird.itch.io)
-- 🕛 I have been programming since mid 2020
 - 🎨 I also create [art](https://cara.app/synthird)
 - ⚡ Fun fact: You are reading this in the present!
 
