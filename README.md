@@ -15,8 +15,10 @@
 
 ## 🧰 Tools
 
+[![Express.js](images/tools/express.svg)](https://expressjs.com/)
 [![Git](images/tools/git.svg)](https://git-scm.com/)
 [![Nano text editor](images/tools/nano-text-editor.svg)](https://www.nano-editor.org/)
+[![Node.js](images/tools/node.svg)](https://nodejs.org/en)
 [![Visual Studio Code](images/tools/visual-studio-code.svg)](https://code.visualstudio.com/)
 
 <details>
