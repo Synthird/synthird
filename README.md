@@ -19,6 +19,7 @@
 [![Git](images/tools/git.svg)](https://git-scm.com/)
 [![Nano text editor](images/tools/nano-text-editor.svg)](https://www.nano-editor.org/)
 [![Node.js](images/tools/node.svg)](https://nodejs.org/en)
+[![Postman](images/tools/postman.svg)](https://www.postman.com/)
 [![Visual Studio Code](images/tools/visual-studio-code.svg)](https://code.visualstudio.com/)
 
 <details>
