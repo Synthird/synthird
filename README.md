@@ -17,9 +17,12 @@
 
 [![Express.js](images/tools/express.svg)](https://expressjs.com/)
 [![Git](images/tools/git.svg)](https://git-scm.com/)
+[![GitHub](images/tools/github.svg)](https://github.com/)
+[![GitHub pages](images/tools/github-pages.svg)](https://pages.github.com/)
 [![Nano text editor](images/tools/nano-text-editor.svg)](https://www.nano-editor.org/)
 [![Node.js](images/tools/node.svg)](https://nodejs.org/en)
 [![Postman](images/tools/postman.svg)](https://www.postman.com/)
+[![Vercel](images/tools/vercel.svg)](https://vercel.com/)
 [![Visual Studio Code](images/tools/visual-studio-code.svg)](https://code.visualstudio.com/)
 
 <details>
