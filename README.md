@@ -5,7 +5,7 @@
 - 🕹️ I got into programming when I started learning to make video games
   - 🎮 You can play the ones I published on [itch.io](https://synthird.itch.io)
 - 🎨 I also create [art](https://cara.app/synthird)
-- I never use "AI" in my projects
+- I never use "AI"
 - ⚡ Fun fact: You are reading this in the present!
 
 <details>
