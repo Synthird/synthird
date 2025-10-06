@@ -13,28 +13,6 @@
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&theme=synthwave&langs_count=20&hide_border=true&disable_animations=true&custom_title=Top%20languages)
 </details>
 
-## 🧰 Tools
-
-[![Express.js](images/tools/express.svg)](https://expressjs.com/)
-[![Git](images/tools/git.svg)](https://git-scm.com/)
-[![GitHub](images/tools/github.svg)](https://github.com/)
-[![GitHub pages](images/tools/github-pages.svg)](https://pages.github.com/)
-[![Nano text editor](images/tools/nano-text-editor.svg)](https://www.nano-editor.org/)
-[![Node.js](images/tools/node.svg)](https://nodejs.org/en)
-[![Postman](images/tools/postman.svg)](https://www.postman.com/)
-[![Vercel](images/tools/vercel.svg)](https://vercel.com/)
-[![Visual Studio Code](images/tools/visual-studio-code.svg)](https://code.visualstudio.com/)
-
-<details>
-<summary>🖌️ Non-programming tools</summary> <br>
-
-[![Blender](images/tools/non-programming-tools/blender.svg)](https://www.blender.org/)
-[![Gimp](images/tools/non-programming-tools/gimp.svg)](https://www.gimp.org/)
-[![Krita](images/tools/non-programming-tools/krita.svg)](https://krita.org/en/)
-[![Libresprite](images/tools/non-programming-tools/libresprite.svg)](https://libresprite.github.io/)
-
-</details>
-
 <!--
 **Synthird/Synthird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
