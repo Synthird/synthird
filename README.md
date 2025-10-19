@@ -5,6 +5,7 @@
   - 🎮 You can play the ones I published on [itch](https://synthird.itch.io)
 - 🎨 I also create [art](https://cara.app/synthird)
 - I never use "AI"
+  - Except for making commit messages on the site (Because that is enforced)
 - ⚡ Fun fact: You are reading this in the present!
 
 <details>
