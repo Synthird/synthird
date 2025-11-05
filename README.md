@@ -1,4 +1,4 @@
-## Hi there! I'm Synthird! 👋
+## Hi there! I'm Synthird! <>
 
 - 🕛 I have been programming since mid 2020
 - 🕹️ I got into programming when I started learning to make video games
