@@ -1,6 +1,7 @@
 ## <> Hi there! I'm Synthird! </>
 
 - 🕛 I have been programming since mid 2020
+  - 📘 The first language I learned was [Lua](https://lua.org/)
 - 🕹️ I got into programming when I started learning to make video games
   - 🎮 You can play the ones I published on [itch](https://synthird.itch.io)
 - 🎨 I also create [art](https://cara.app/synthird)
