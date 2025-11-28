@@ -5,7 +5,7 @@
     - 🎮 You can play the ones I published on [itch](https://synthird.itch.io)
   - 📘 The first language I learned was [Lua](https://lua.org/)
 - 🎨 I also create [art](https://cara.app/synthird)
-- I never use "AI" that spit out text, code, images, or videos
+- I never use "AI" that spit out text, code, images, videos, audio, graphs, etc.
 - ⚡ Fun fact: You are reading this in the present!
 
 <details>
