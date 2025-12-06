@@ -39,6 +39,7 @@ jobs:
       with:
         image-file: images/contribs.svg
         colors: dark
+        include-title: false
         hide-keys: general, languages, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -48,6 +49,7 @@ jobs:
       with:
         image-file: images/repos.svg
         colors: dark
+        include-title: false
         hide-keys: general, contributions, languages
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
