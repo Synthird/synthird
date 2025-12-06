@@ -8,13 +8,17 @@
 - I never use "AI" that spit out or edit text, code, images, videos, audio, graphs, etc.
 - ⚡ Fun fact: You are reading this in the present!
 
-<!--
-<details>
-  <summary>:octocat: Top languages in public non-forked repositories (Doesn't indicate proficiency)</summary> <br>
 
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synthird&theme=synthwave&langs_count=20&hide_border=true&disable_animations=true&custom_title=Top%20languages)
+<details>
+  <summary>:octocat: GitHub profile statistics</summary> <br>
+
+   [![Repository statistics](images/repos.svg)](https://github.com/cicirello/user-statistician)
+
+   [![Contributions](images/contribs.svg)](https://github.com/cicirello/user-statistician)
+
+   [![Top programming languages](images/languages.svg)](https://github.com/cicirello/user-statistician)
 </details>
--->
+
 
 <!--
 **Synthird/Synthird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
