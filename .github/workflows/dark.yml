@@ -26,6 +26,6 @@ jobs:
       with:
         colors: dark
         hide-keys: followers, following, sponsors
-        hide-title: true
+        include-title: false
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
