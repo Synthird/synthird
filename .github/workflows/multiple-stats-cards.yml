@@ -29,6 +29,7 @@ jobs:
       with:
         image-file: images/languages.svg
         colors: dark
+        include-title: false
         hide-keys: general, contributions, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
