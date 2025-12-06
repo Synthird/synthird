@@ -12,11 +12,7 @@
 <details>
   <summary>:octocat: GitHub profile statistics</summary> <br>
 
-   [![Repository statistics](images/repos.svg)](https://github.com/cicirello/user-statistician)
-
-   [![Contributions](images/contribs.svg)](https://github.com/cicirello/user-statistician)
-
-   [![Top programming languages](images/languages.svg)](https://github.com/cicirello/user-statistician)
+  [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 </details>
 
 
