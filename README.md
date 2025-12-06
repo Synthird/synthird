@@ -10,7 +10,7 @@
 
 
 <details>
-  <summary>:octocat: GitHub profile statistics</summary> <br>
+  <summary>:octocat: GitHub activity card</summary> <br>
 
   [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 </details>
