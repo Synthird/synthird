@@ -8,7 +8,6 @@
 - I never use "AI" that spit out or edit text, code, images, videos, audio, graphs, etc.
 - ⚡ Fun fact: You are reading this in the present!
 
-
 <details>
   <summary>:octocat: GitHub activity card (Doesn't indicate proficiency)</summary> <br>
 
