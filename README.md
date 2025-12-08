@@ -1,5 +1,6 @@
 ## <> Hi there! I'm Synthird! </>
 
+- 😄 Pronouns: Any pronouns
 - 🕛 I have been programming since mid 2020
   - 🕹️ I got into programming when I started learning to make video games
     - 🎮 You can play the ones I published on [itch](https://synthird.itch.io)
