@@ -27,6 +27,7 @@ jobs:
         colors: dark
         hide-keys: followers, following, sponsors
         include-title: false
+        show-border: false
         animated-language-chart: true
         featured-repository: crosspost-by-post
       env:
