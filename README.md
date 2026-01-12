@@ -1,4 +1,4 @@
-## <> Hi there! I'm Synthird! </>
+## ```<greeting>``` Hi there! I'm Synthird! ```</greeting>```
 
 - 🕛 I have been programming since mid 2020
   - 🕹️ I got into it when I started learning to make video games (Like [these ones](https://synthird.itch.io) I published)
