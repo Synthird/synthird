@@ -1,9 +1,9 @@
 ## ```<greeting>```Hi there! I'm Synthird!```</greeting>```
 
-- 🕛 I have been programming since mid 2020
-  - 🕹️ I got into it when I started learning to make video games (Like [these ones](https://synthird.itch.io) I published)
-  - 📘 The first language I learned was [Lua](https://lua.org/)
-- 🎨 I also create [art](https://cara.app/synthird)
+- 🕛 I have been programming since mid 2020.
+  - 🕹️ I got into it when I started learning to make video games. (Like [these ones](https://synthird.itch.io) I published.)
+  - 📘 The first language I learned was [Lua](https://lua.org/).
+- 🎨 I also create [art](https://cara.app/synthird).
 - ⚡ Fun fact: You are reading this in the present!
 
 <details>
