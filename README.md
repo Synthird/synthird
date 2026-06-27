@@ -1,6 +1,6 @@
 ## ```<greeting>```Hi there! I'm Synthird!```</greeting>```
 
-- 🕛 I have been programming since mid 2020.
+- 🕛 I've been programming since mid 2020.
   - 🕹️ I got into it when I started learning to make video games.
   - 📘 The first language I learned was [Lua](https://lua.org/).
 - 🎨 I also create [art](https://cara.app/synthird).
